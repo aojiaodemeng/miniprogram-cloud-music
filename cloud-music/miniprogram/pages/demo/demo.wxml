@@ -1,0 +1,2 @@
+<button bind:tap="getMusicInfo">获取音乐顺序</button>
+<button bind:tap="getMovieInfo">获取电影</button>
